@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanshauck
 - 👀 I’m interested in breaking into the data science industry
-- 🌱 I’m currently learning data cleaning on python data frames, and will soon begin supervised learning
+- 🌱 Recently finished a supervised machinelearning project and beginning to learn unsupervised machine learning.
 - 💞️ I’m looking to collaborate on just about anything right now, to gain experience
 - 📫 How to reach me, my email is ivanshauck@hotmail.com
 
