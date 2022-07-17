@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanshauck
 - 👀 I’m interested in breaking into the data science industry
-- 🌱 Have recently learned supervised and unsupervised learning techniques, and am a month out from finishing a data science boot camp.
+- 🌱 Have recently learned supervised and unsupervised learning techniques, and just finished the thinkful data science boot camp.
 - 💞️ I’m looking to collaborate on just about anything right now, to gain experience
 - 📫 How to reach me, my email is ivanshauck@hotmail.com
 
